@@ -6,21 +6,18 @@ Note: I'm a huge advocate for testing, and this boilerplate purposefully leaves 
 
 ## Backend:
 
--Python
--Flask
--OpenApi
+- Docker
+- Python
+- Flask
+- OpenApi
 
 ## Frontend:
 
--Next.js
--Typescript
--React
--Tailwind CSS
-
-## Build Tools:
-
--Docker
--ESLint
+- Next.js
+- Typescript
+- React
+- Tailwind CSS
 
 Feel free to use however with no credit needed (this is original code, but was mainly just executing a series of commands)
+
 I provide no support, guarantee, etc, etc. 😂 
