@@ -5,7 +5,7 @@ FROM python:3.8-slim as backend
 WORKDIR /app
 
 # Copy the backend application
-COPY ./app.py /app
+COPY ./backend/app.py /app
 
 # Install Flask
 RUN pip install flask flask_restx flask_cors
